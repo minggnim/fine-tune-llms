@@ -1,4 +1,4 @@
-#!/Users/mg/Repos/fine-tune-llms/.venv/bin/python3.11
+#!/Users/mg/Repos/fine-tune-llms/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
